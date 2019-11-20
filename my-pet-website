@@ -4,6 +4,7 @@
     <title>My Pets site!</title>
     </head>
     <body>
+         <h1>My son <strong>Malik</strong>!</h1>
          <h2>This, is, Spaky!</h2>
           <img src="https://bit.ly/2D30rn3" alt="A photo of a dog">
         
@@ -13,12 +14,11 @@
         <ol>
             <li>Playing</li>
              <img src="https://bit.ly/37mI5eT" alt="A photo of spaky playing">
-
             <li>Eating</li>
              <img src="https://bit.ly/2qlTVW5" alt="A photo of spaky eating">
-
             <li>Fetching</li>
              <img src="https://bit.ly/2pzYRpH" alt="A photo of spaky fetching">
         </ol>
     </body>
 </html>
+
